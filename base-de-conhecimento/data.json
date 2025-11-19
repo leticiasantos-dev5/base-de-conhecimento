@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "O JS é a linguagem da web.",
+        "ano": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "descricao": "O Python é a linguagem da ciência de dados e IA.",
+        "ano": 1991,
+        "link": "https://www.codaqui.dev/trilhas/python/?gad_source=1&gad_campaignid=23058687337&gbraid=0AAAAAo5uCBb_ys4gTf_Zk-x-29RstYCsG&gclid=CjwKCAiA8vXIBhAtEiwAf3B-gwLzl7c_8Rlt9jbUFIhQJVTZA399AiPCbMDahjtX_guUDWRo-MjL0RoCU2kQAvD_BwE"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem de programação versátil e uma plataforma computacional.",
+        "ano": 1995,
+        "link": "https://www.java.com/pt-BR/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# (C Sharp) é uma linguagem de programação moderna e orientada a objetos desenvolvida pela Microsoft.",
+        "ano": 2000,
+        "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de script popular, especialmente adequada para o desenvolvimento web.",
+        "ano": 1995,
+        "link": "https://www.php.net/manual/pt_BR/intro-whatis.php"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem.",
+        "ano": 2012,
+        "link": "https://www.typescriptlang.org/pt/"
+    }
+]
